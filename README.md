@@ -4,6 +4,8 @@ This is a lightweight GPU-accelerated physics test application using NVIDIA Phys
 
 The goal is to verify that GPU acceleration works correctly with PhysX and provides a simple 2D-like visualization of falling boxes with basic collision handling.
 
+Short video about it. https://drive.google.com/file/d/14S3AJXohfxTS9_NWGnGFd5Up6oW31ReZ/view?usp=drive_link
+
 ## Features
 
 - PhysX 5.6.0 SDK with GPU support
