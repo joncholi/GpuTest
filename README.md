@@ -71,11 +71,11 @@ Short video about it. https://drive.google.com/file/d/14S3AJXohfxTS9_NWGnGFd5Up6
 
 ## Folder Structure
 
-GpuTest/
-├── main.cpp
-├── CMakeLists.txt (optional)
-├── README.md
-└── resources/
+GpuTest/    
+├── main.cpp    
+├── CMakeLists.txt (optional)   
+├── README.md   
+└── resources/  
 
 
 ## Credits
